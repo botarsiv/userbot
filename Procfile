@@ -1,1 +1,1 @@
-worker: bash init/start.sh
+worker: Dockerfile
