@@ -1,1 +1,1 @@
-worker: Dockerfile
+worker: docker run userbot
